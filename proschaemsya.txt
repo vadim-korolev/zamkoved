@@ -1,1 +1,2 @@
 print("Досвидания")
+nu da nu da
